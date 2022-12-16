@@ -93,13 +93,11 @@ nav {
   border: none;
   color: rgb(0, 0, 0);
   width: 100%;
-  padding: 15px 102px;
+  padding: 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: -10px 12px;
-  cursor: pointer;
 }
 
 .about-me {
@@ -132,7 +130,7 @@ h1, .main-nav {
 }
 
 .main-nav li {
-  padding: 10px 0;
+  padding: 2px 0;
   margin: 5px auto;
 }
 
